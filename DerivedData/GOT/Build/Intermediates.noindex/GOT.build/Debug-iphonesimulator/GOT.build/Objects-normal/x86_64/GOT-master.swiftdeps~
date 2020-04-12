@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.2 (swiftlang-1103.0.32.1 clang-1103.0.32.29)"
+options: "6ca50219ea8b088590f535b34a5c5b55"
+build_time: [1586667447, 374697000]
+inputs:
+  "/Users/marvinevins/Library/Autosave Information/GOT/GOT/ViewController.swift": [1586666784, 563587825]
+  "/Users/marvinevins/Library/Autosave Information/GOT/GOT/AppDelegate.swift": [1586665616, 821981700]
+  "/Users/marvinevins/Library/Autosave Information/GOT/GOT/Houses.swift": [9223372036, 854775807]
+  "/Users/marvinevins/Library/Autosave Information/GOT/GOT/HouseInfo.swift": [1586667409, 404810528]
+  "/Users/marvinevins/Library/Autosave Information/GOT/GOT/SceneDelegate.swift": [1586665616, 835176559]
