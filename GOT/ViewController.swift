@@ -24,6 +24,11 @@ class ViewController: UIViewController , UITableViewDataSource, UITableViewDeleg
         
         tableView.delegate = self
         tableView.delegate = self
+        
+        houses.getData{
+            //todo: update tableview here.
+            
+        }
     }
 
     
